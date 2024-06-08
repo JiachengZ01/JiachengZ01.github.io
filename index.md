@@ -4,20 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi there, I am Jiacheng Zhang, a Ph.D. student at [Trustworthy Machine Learning and Reasoning (TMLR) Group](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, The University of Melbourne, adviced by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
 
-## Research Interests
+My research interest lies in **trustworthy machine learning with unsafe data**. Currently, I am focusing on defending against adversarial attacks.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+*Please feel free to email me for research, collaborations, or a casual chat.*
 
-## News
+## Educations
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- *2023.08 - present*, The Unversity of Melbourne (UoM), Ph.D. in Engineering and IT, adviced by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
+- *2022.07 - 2023.07*, The University of Sydney (USYD), B.E. in Data Science (Honours), adviced by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
+- *2019.03 - 2021.12*, The University of Melbourne (UoM), B.E. in Data Science.
+
+## Awards
+
+- **[Jul. 2023]** Amazon Best UG Senior Project Award.
+- **[Jul. 2023]** University Medal of USYD (**Top 1** in major, highest honour for undergraduates).
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Teaching
+- Teaching Assistant for COMP20008: Elements of Data Processing (2024 S1).
