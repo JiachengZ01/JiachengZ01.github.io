@@ -1,7 +1,6 @@
 main:
-
   - title: Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training
-    authors: <strong>Jiacheng Zhang</strong>, Feng Liu*, Dawei Zhou, Jingfeng Zhang, Tongliang Liu*, (*Corresponding authors)
+    authors: <strong>Jiacheng Zhang</strong>, Feng Liu*, Dawei Zhou, Jingfeng Zhang, Tongliang Liu* (* Corresponding authors).
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.00685
