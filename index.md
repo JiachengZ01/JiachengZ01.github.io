@@ -18,8 +18,8 @@ My research interest lies in **trustworthy machine learning with unsafe data**. 
 
 ## Awards
 
-- **[Jul. 2023]** Amazon Best UG Senior Project Award of Coding Fest 2023.
-- **[Jul. 2023]** University Medal of USYD (**Top 1** in major, highest honour for undergraduates).
+- *2023.07* Amazon Best UG Senior Project Award of Coding Fest 2023.
+- *2023.07* University Medal of USYD (**Top 1** in major, highest honour for undergraduates).
 
 {% include_relative _includes/publications.md %}
 
