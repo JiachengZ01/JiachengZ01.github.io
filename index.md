@@ -13,8 +13,8 @@ My research interest lies in **trustworthy machine learning with unsafe data**. 
 ## Educations
 
 - *2023.08 - present*, The Unversity of Melbourne (UoM), Ph.D. in Engineering and IT, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
-- *2022.07 - 2023.07*, The University of Sydney (USYD), B.E. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
-- *2019.03 - 2021.12*, The University of Melbourne (UoM), B.E. in Data Science.
+- *2022.07 - 2023.07*, The University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
+- *2019.03 - 2021.12*, The University of Melbourne (UoM), B.Sc. in Data Science.
 
 ## Awards
 
