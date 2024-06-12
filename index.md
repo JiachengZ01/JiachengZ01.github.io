@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there, I am Jiacheng Zhang, a Ph.D. student at [Trustworthy Machine Learning and Reasoning Group (TMLR)](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, The University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
+Hi there, I am Jiacheng Zhang, a Ph.D. student at [Trustworthy Machine Learning and Reasoning Group (TMLR)](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
 
 My research interest lies in **trustworthy machine learning with unsafe data**. Currently, I am focusing on defending against adversarial attacks.
 
@@ -16,10 +16,12 @@ My research interest lies in **trustworthy machine learning with unsafe data**. 
 - *2022.07 - 2023.07*, The University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 - *2019.03 - 2021.12*, The University of Melbourne (UoM), B.Sc. in Data Science.
 
-## Awards
+## Honours & Awards
 
 - *2023.07*, Amazon Best UG Senior Project Award of Coding Fest 2023.
 - *2023.07*, University Medal of USYD (**Top 1** in Major, Highest Honour for Undergraduates).
+- *2023.06*, Melbourne Research Scholarship of UoM.
+- *2021.11*, Vacation Research Scholarship of UoM.
 
 {% include_relative _includes/publications.md %}
 
