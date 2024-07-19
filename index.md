@@ -29,4 +29,6 @@ My research interest lies in **trustworthy machine learning with unsafe data**. 
 {% include_relative _includes/services.md %}
 
 ## Teaching
+- Teaching Assistant for SWEN20003: Object Oriented Software Development (2024 S2).
+- Teaching Assistant for COMP20008: Elements of Data Processing (2024 S2).
 - Teaching Assistant for COMP20008: Elements of Data Processing (2024 S1).
