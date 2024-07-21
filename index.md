@@ -18,7 +18,6 @@ My research interest lies in **trustworthy machine learning with unsafe data**. 
 
 ## Honours & Awards
 
-- *2024.06*, ICML 2024 Travel Award.
 - *2023.07*, Amazon Best UG Senior Project Award of Coding Fest 2023.
 - *2023.07*, University Medal of USYD (**Top 1** in Major, Highest Honour for Undergraduates).
 - *2023.06*, Melbourne Research Scholarship of UoM.
