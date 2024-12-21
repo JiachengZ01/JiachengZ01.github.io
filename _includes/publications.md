@@ -39,7 +39,7 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
-             <!-- 添加 Quick Introduction 折叠部分 -->
+             <!-- Quick Introduction -->
       <details>
         <summary style="cursor: pointer; font-weight: bold;">Quick Introduction</summary>
         <p>{{ link.intro }}</p>
