@@ -4,9 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hi there, I am Jiacheng Zhang, a Ph.D. student at [Trustworthy Machine Learning and Reasoning Group (TMLR)](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
+Hi there, I am Jiacheng Zhang, a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning Group (TMLR)](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). Before that, I obtained my Honours degree from the University of Sydney, feeling fortunate to learn from [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 
-My research interest lies in **trustworthy machine learning with unsafe data**. Currently, I am focusing on defending against adversarial attacks.
+I am passionate about advancing the field of trustworthy machine learning. My research interests lie in improving the **Robustness**, **Safety** and **Reliability** of AI systems at all levels, including:
+- Trustworthy alignment for multimodal large language models
+- Robust fine-tuning for pre-trained vision-language models
+- Robust training for vision models
+
+I firmly believe that before AI can achieve widespread societal adoption, its foundations must be trustworthy and safe.
 
 *Please feel free to email me for research, collaborations, or a casual chat.*
 
@@ -16,18 +21,21 @@ My research interest lies in **trustworthy machine learning with unsafe data**. 
 - *2022.07 - 2023.07*, The University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 - *2019.03 - 2021.12*, The University of Melbourne (UoM), B.Sc. in Data Science.
 
+{% include_relative _includes/publications.md %}
+
 ## Honours & Awards
 
+- *2024.06*, ICML 2024 Travel Award.
 - *2023.07*, Amazon Best UG Senior Project Award of Coding Fest 2023.
 - *2023.07*, University Medal of USYD (**Top 1** in Major, Highest Honour for Undergraduates).
 - *2023.06*, Melbourne Research Scholarship of UoM.
 - *2021.11*, Vacation Research Scholarship of UoM.
 
-{% include_relative _includes/publications.md %}
+## Services
+- **Conference Reviewer:** ICML, NeurIPS, ICLR, AISTATS, etc.
 
-{% include_relative _includes/services.md %}
+- **Journal Reviewer:** NEUNET, etc.
 
 ## Teaching
 - Teaching Assistant for SWEN20003: Object Oriented Software Development (2024 S2).
-- Teaching Assistant for COMP20008: Elements of Data Processing (2024 S2).
-- Teaching Assistant for COMP20008: Elements of Data Processing (2024 S1).
+- Teaching Assistant for COMP20008: Elements of Data Processing (2024 S1 & 2024 S2).
