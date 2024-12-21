@@ -33,7 +33,6 @@ I firmly believe that before AI can achieve widespread societal adoption, its fo
 
 ## Services
 - **Conference Reviewer:** ICML, NeurIPS, ICLR, AISTATS, etc.
-
 - **Journal Reviewer:** NEUNET, etc.
 
 ## Teaching
