@@ -28,7 +28,7 @@ I firmly believe that before AI can achieve widespread societal adoption, its fo
 - Google Travel Scholarship, Google, 2025.
 - ICML Travel Award, ICML, 2024.
 - Best UG Senior Project Award, Amazon Coding Festival, 2023.
-- University Medal, USYD (**Top 1** in Major, Highest Honour for Undergraduates), 2023.
+- University Medal (**Top 1** in Major, Highest Honour for Undergraduates), USYD, 2023.
 - Melbourne Research Scholarship, UoM, 2023.
 - Vacation Research Scholarship, UoM, 2021.
 
