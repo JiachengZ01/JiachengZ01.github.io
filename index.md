@@ -15,7 +15,7 @@ I firmly believe that before AI can achieve widespread societal adoption, its fo
 
 *Please feel free to email me for research, collaborations, or a casual chat.*
 
-## Educations
+## Education
 
 - *2023.08 - present*, the Unversity of Melbourne (UoM), Ph.D. in Engineering and IT, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
 - *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
@@ -23,18 +23,19 @@ I firmly believe that before AI can achieve widespread societal adoption, its fo
 
 {% include_relative _includes/publications.md %}
 
-## Honours & Awards
+## Honour & Award
 
-- *2024.06*, ICML 2024 Travel Award.
-- *2023.07*, Amazon Best UG Senior Project Award of Coding Fest 2023.
-- *2023.07*, University Medal of USYD (**Top 1** in Major, Highest Honour for Undergraduates).
-- *2023.06*, Melbourne Research Scholarship of UoM.
-- *2021.11*, Vacation Research Scholarship of UoM.
+- Google Travel Scholarship, Google, 2025.
+- ICML Travel Award, ICML, 2024.
+- Best UG Senior Project Award, Amazon Coding Festival, 2023.
+- University Medal, USYD (**Top 1** in Major, Highest Honour for Undergraduates), 2023.
+- Melbourne Research Scholarship, UoM, 2023.
+- Vacation Research Scholarship, UoM, 2021.
 
-## Services
+## Academic Service
 - *Conference Reviewer:* ICML, NeurIPS, ICLR, AISTATS, etc.
 - *Journal Reviewer:* NEUNET, etc.
 
-## Teaching
-- *Teaching Assistant for SWEN20003:* Object Oriented Software Development (2024 S2).
-- *Teaching Assistant for COMP20008*: Elements of Data Processing (2024 S1 & 2024 S2).
+## Teaching Assistant
+- *SWEN20003:* Object Oriented Software Development (2024 S2 & 2025 S1).
+- *COMP20008:* Elements of Data Processing (2024 S1 & 2024 S2 & 2025 S1).
