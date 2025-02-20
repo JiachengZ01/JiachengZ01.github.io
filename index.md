@@ -36,6 +36,10 @@ I firmly believe that before AI can achieve widespread societal adoption, its fo
 - *Conference Reviewer:* ICML, NeurIPS, ICLR, AISTATS, etc.
 - *Journal Reviewer:* NEUNET, etc.
 
+## Invited Talk
+- Talk on "Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training", UoM, Melbourne, Jan 23, 2025 (Invited Seminar Talk).
+- Talk on "Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training", AJCAI 2024, Melbourne, Nov 26, 2024 (Invited Seminar Talk).
+
 ## Teaching Assistant
 - *SWEN20003:* Object Oriented Software Development (2024 S2 & 2025 S1).
 - *COMP20008:* Elements of Data Processing (2024 S1 & 2024 S2 & 2025 S1).
