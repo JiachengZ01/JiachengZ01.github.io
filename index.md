@@ -19,7 +19,7 @@ I firmly believe that before AI can achieve widespread societal adoption, its fo
 
 - *2023.08 - present*, the Unversity of Melbourne (UoM), Ph.D. in Engineering and IT, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
 - *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
-- *2019.03 - 2021.12*, the University of Melbourne (UoM), B.Sc. in Data Science.
+- *2019.03 - 2022.03*, the University of Melbourne (UoM), B.Sc. in Data Science.
 
 {% include_relative _includes/publications.md %}
 
