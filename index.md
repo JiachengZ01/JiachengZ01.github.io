@@ -6,12 +6,12 @@ layout: homepage
 
 Hi there, I am Jiacheng Zhang, a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning Group (TMLR)](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). Before that, I obtained my Honours degree from the University of Sydney, feeling fortunate to learn from [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 
-I am passionate about advancing the field of trustworthy machine learning. My research interests lie in improving the **Robustness** and **Safety** of AI systems at all levels, including:
-- Trustworthy alignment for multimodal large language models
+I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests lie in improving the **robustness** and **safety** of AI systems at multiple levels, including:
+- Safety alignment for multimodal large language models
 - Robust fine-tuning for pre-trained vision-language models
 - Robust training for vision models
 
-I firmly believe that before AI can achieve widespread societal adoption, its foundations must be trustworthy and safe.
+In an era where AI systems are increasingly embedded in high-stakes, real-world decision-making domains, I firmly believe that their foundations must be trustworthy and safe: not as an afterthought, but as a prerequisite for responsible and sustainable societal integration.
 
 *Please feel free to email me for research, collaborations, or a casual chat.*
 
