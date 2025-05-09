@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there, I am Jiacheng Zhang, a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning Group (TMLR)](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). Before that, I obtained my Honours degree from the University of Sydney, feeling fortunate to learn from [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
+Hi there, I am Jiacheng Zhang, a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning Group](https://github.com/tmlr-group) in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). Before that, I obtained my Honours degree from the University of Sydney, feeling fortunate to learn from [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 
 I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests lie in improving the **robustness** and **safety** of AI systems at multiple levels, including:
 - Safety alignment for multimodal large language models
@@ -34,7 +34,7 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 
 ## Academic Service
 - *Conference Reviewer:* ICML, NeurIPS, ICLR, AISTATS, etc.
-- *Journal Reviewer:* NEUNET, etc.
+- *Journal Reviewer:* NEUNET, IEEE TIFS, TMLR, etc.
 
 ## Invited Talk
 - Talk on "Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training", UoM, Melbourne, Jan 23, 2025 (Invited Seminar Talk).
