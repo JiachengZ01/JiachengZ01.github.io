@@ -1,6 +1,7 @@
 main:
   - title: Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training
     authors: <strong>Jiacheng Zhang</strong>, Feng Liu*, Dawei Zhou, Jingfeng Zhang, Tongliang Liu*.
+    conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.00685
     code: https://github.com/tmlr-group/PART/
@@ -18,3 +19,12 @@ main:
     image: ./assets/img/ddad.jpg
     intro: "Statistical adversarial data detection (SADD) detects whether an upcoming batch contains adversarial examples (AEs) by measuring the distributional discrepancies between clean examples (CEs) and AEs. In this paper, we reveal the potential strength of SADD-based methods by theoretically showing that minimizing distributional discrepancy can help reduce the expected loss on AEs. Nevertheless, despite these advantages, SADD-based methods have a potential limitation{:} they discard inputs that are detected as AEs, leading to the loss of clean information within those inputs. To address this limitation, we propose a two-pronged adversarial defense method, named Distributional-Discrepancy-based Adversarial Defense (DDAD). In the training phase, DDAD first optimizes the test power of the maximum mean discrepancy (MMD) to derive MMD-OPT, and then trains a denoiser by minimizing the MMD-OPT between CEs and AEs. In the inference phase, DDAD first leverages MMD-OPT to differentiate CEs and AEs, and then applies a two-pronged process{:} (1) directly feeding the detected CEs into the classifier, and (2) removing noise from the detected AEs by the distributional-discrepancy-based denoiser. Extensive experiments show that DDAD outperforms current state-of-the-art (SOTA) defense methods by notably improving clean and robust accuracy on CIFAR-10 and ImageNet-1K against adaptive white-box attacks."
     # notes: Early Accept
+  - title: "Sample-specific Noise Injection for Diffusion-based Adversarial Purification"
+    authors: Yuhao Sun^, <strong>Jiacheng Zhang^</strong>, Zesheng Ye^, Chaowei Xiao, Feng Liu*.
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2406.00685
+    # code: https://github.com/tmlr-group/PART/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ssni.jpg
+    intro: "Diffusion-based purification (DBP) methods aim to remove adversarial noise from the input sample by first injecting Gaussian noise through a forward diffusion process, and then recovering the clean example through a reverse generative process. In the above process, how much Gaussian noise is injected to the input sample is key to the success of DBP methods, which is controlled by a constant noise level t* for all samples in existing methods. In this paper, we discover that an optimal t* for each sample indeed could be different. Intuitively, the cleaner a sample is, the less the noise it should be injected, and vice versa. Motivated by this finding, we propose a new framework, called Sample-specific Score-aware Noise Injection (SSNI). Specifically, SSNI uses a pre-trained score network to estimate how much a data point deviates from the clean data distribution (i.e., score norms). Then, based on the magnitude of score norms, SSNI applies a reweighting function to adaptively adjust $t^*$ for each sample, achieving sample-specific noise injections. Empirically, incorporating our framework with existing DBP methods results in a notable improvement in both accuracy and robustness on CIFAR-10 and ImageNet-1K, highlighting the necessity to allocate distinct noise levels to different samples in DBP methods."
