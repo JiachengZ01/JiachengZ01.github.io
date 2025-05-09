@@ -1,5 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publication</h2>
-(^Co-first author, * Corresponding author)
+
+<p style="margin-top: 20px;">(^Co-first author, * Corresponding author)</p>
 
 <div class="publications">
 <ol class="bibliography">
