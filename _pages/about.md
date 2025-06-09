@@ -30,9 +30,9 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.08 - present*, the Unversity of Melbourne (UoM), Ph.D. in Engineering and IT, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
+- *2023.08 - present*, the Unversity of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
 - *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
-- *2019.03 - 2022.03*, the University of Melbourne (UoM), B.Sc. in Data Science.
+- *2019.03 - 2022.03*, the University of Melbourne (Unimelb), B.Sc. in Data Science.
 
 # 📝 Publications 
 \* Co-first author, ✉️ Corresponding author.
@@ -82,8 +82,8 @@ In *ICML 2025*.
 - *2024.06*, ICML Travel Award.
 - *2023.07*, Amazon Best UG Senior Project Award.
 - *2023.07*, University Medal of USYD (**Top 1** in Major, Highest Honour for Undergraduates).
-- *2023.06*, Melbourne Research Scholarship of UoM.
-- *2021.02*, Vacation Research Scholarship of UoM.
+- *2023.06*, Melbourne Research Scholarship of Unimelb.
+- *2021.02*, Vacation Research Scholarship of Unimelb.
 
 # 💻 Internships
 - *2025.06 - present*, research intern @Sea AI Lab-[Trustworthy AI](https://sail.sea.com/research/3), advised by [Prof. Tianyu Pang](https://p2333.github.io/).
@@ -93,7 +93,7 @@ In *ICML 2025*.
 - Journal Reviewer for NEUNET, IEEE TIFS, TMLR, etc.
 
 # 💬 Invited Talks
-- *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @UoM, Melbourne.
+- *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @Unimelb, Melbourne.
 - *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @AJCAI 2024, Melbourne.
 
 # 🧑‍🏫 Teaching Assistants
