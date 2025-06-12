@@ -77,9 +77,10 @@ In *ICML 2025*.
 </div>
 
 # 🎖 Honours and Awards
-- *2025.05*, ICML Top Reviewer (**Top 2%**).
-- *2025.03*, Google Travel Scholarship.
-- *2024.06*, ICML Travel Award.
+- *2025.06*, ICML 2025 Travel Award.
+- *2025.05*, ICML 2025 Top Reviewer (**Top 2%**).
+- *2025.03*, Google Student Research Travel Scholarship.
+- *2024.06*, ICML 2024 Travel Award.
 - *2023.07*, Amazon Best UG Senior Project Award.
 - *2023.07*, University Medal of USYD (**Top 1** in Major, Highest Honour for Undergraduates).
 - *2023.06*, Melbourne Research Scholarship of Unimelb.
