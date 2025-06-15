@@ -91,7 +91,7 @@ In *ICML 2025*.
 
 # ✍️ Academic Services
 - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, etc.
-- Journal Reviewer for NEUNET, IEEE TIFS, TMLR, etc.
+- Journal Reviewer for NEUNET, IEEE TIFS, TMLR, Machine Learning, etc.
 
 # 💬 Invited Talks
 - *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @Unimelb, Melbourne.
