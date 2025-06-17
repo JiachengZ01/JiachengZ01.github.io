@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Jiacheng (James) Zhang. I am an associate member of [Sea AI Lab (SAIL)](https://sail.sea.com/), advised by [Prof. Tianyu Pang](https://p2333.github.io/), and a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). I received my Honours degree with a University Medal (**Top 1** in major) from the University of Sydney, where I was fortunate to learn from [Prof. Tongliang Liu](https://tongliang-liu.github.io/). Prior to that, I earned my Bachelor's degree from the University of Melbourne.
+Hi there, I am Jiacheng (James) Zhang. I am an associate member of [Sea AI Lab (SAIL)](https://sail.sea.com/), mentored by [Dr. Tianyu Pang](https://p2333.github.io/), and a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, advised by [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). I received my Honours degree with a University Medal (**Top 1** in major) from the University of Sydney, where I was fortunate to learn from [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/). Prior to that, I earned my Bachelor's degree from the University of Melbourne.
 
 I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests lie in improving the **robustness** and **safety** of AI systems at multiple levels, including but not limited to: (1) safety alignment for multimodal large language models; (2) robust fine-tuning for pre-trained vision-language models; (3) robust training for vision models.
 
@@ -30,8 +30,8 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.08 - present*, the Unversity of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by [Prof. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
-- *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io/).
+- *2023.08 - present*, the Unversity of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
+- *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 - *2019.03 - 2022.03*, the University of Melbourne (Unimelb), B.Sc. in Data Science.
 
 # 📝 Publications 
@@ -87,7 +87,7 @@ In *ICML 2025*.
 - *2021.02*, Vacation Research Scholarship of Unimelb.
 
 # 💻 Internships
-- *2025.06 - present*, research intern @Sea AI Lab-[Trustworthy AI](https://sail.sea.com/research/3), advised by [Prof. Tianyu Pang](https://p2333.github.io/).
+- *2025.06 - present*, research intern @Sea AI Lab-[Trustworthy AI](https://sail.sea.com/research/3), mentored by [Dr. Tianyu Pang](https://p2333.github.io/).
 
 # ✍️ Academic Services
 - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, etc.
