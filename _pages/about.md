@@ -94,9 +94,12 @@ In *ICML 2025*.
 - Journal Reviewer for NEUNET, IEEE TIFS, TMLR, Machine Learning, etc.
 
 # 💬 Invited Talks
-- *2025.06*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @AI TIME, Online.
-- *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @Unimelb, Melbourne.
-- *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @AJCAI 2024, Melbourne.
+- *2025.06*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @AI TIME, Online. 
+[[slides]](/_pages/data/slides_AI_TIME_ICML2025.pdf)
+- *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @Unimelb, Melbourne. 
+[[slides]](/_pages/data/slides_2025_1_23.pdf)
+- *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @AJCAI 2024, Melbourne. 
+[[slides]](/_pages/data/slides_AJCAI.pdf)
 
 # 🧑‍🏫 Teaching Assistants
 - Teaching Assistant for SWEN20003: Object Oriented Software Development (2024 S2 / 2025 S1).
