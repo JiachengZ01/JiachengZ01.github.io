@@ -96,6 +96,7 @@ In *ICML 2025*.
 # 💬 Invited Talks
 - *2025.06*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @AI TIME, Online. 
 [[slides]](/_pages/data/slides_AI_TIME_ICML2025.pdf)
+[[video]](https://www.bilibili.com/video/BV1i4KozXETv/?spm_id_from=333.337.search-card.all.click)
 - *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @Unimelb, Melbourne. 
 [[slides]](/_pages/data/slides_2025_1_23.pdf)
 - *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @AJCAI 2024, Melbourne. 
