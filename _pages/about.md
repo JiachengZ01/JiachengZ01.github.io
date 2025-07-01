@@ -37,19 +37,6 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 # 📝 Publications 
 \* Co-first author, ✉️ Corresponding author.
 
-<!-- PART -->
-<div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">ICML 2024</div>
-<img src='/_pages/figures/part.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training<br>
-**Jiacheng Zhang**, Feng Liu✉️, Dawei Zhou, Jingfeng Zhang, Tongliang Liu✉️.<br>
-In *ICML 2024*.
-[[paper]](https://arxiv.org/pdf/2406.00685)
-[[code]](https://github.com/tmlr-group/PART/)
-</div>
-</div>
-
 <!-- DAD -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">ICML 2025</div>
@@ -73,6 +60,20 @@ Yuhao Sun\*, **Jiacheng Zhang\***, Zesheng Ye\*, Chaowei Xiao, Feng Liu✉️.<b
 In *ICML 2025*.
 [[paper]](https://arxiv.org/pdf/2506.06027)
 [[code]](https://github.com/tmlr-group/SSNI)
+</div>
+</div>
+
+<!-- PART -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">ICML 2024</div>
+<img src='/_pages/figures/part.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training<br>
+**Jiacheng Zhang**, Feng Liu✉️, Dawei Zhou, Jingfeng Zhang, Tongliang Liu✉️.<br>
+In *ICML 2024*.
+[[paper]](https://arxiv.org/pdf/2406.00685)
+[[code]](https://github.com/tmlr-group/PART/)
+[[poster]](/_pages/data/poster_PART.pdf)
 </div>
 </div>
 
