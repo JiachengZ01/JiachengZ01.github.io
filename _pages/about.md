@@ -103,7 +103,7 @@ In *ICML 2024*.
 [[video]](https://www.bilibili.com/video/BV1i4KozXETv/?spm_id_from=333.337.search-card.all.click)
 - *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @Unimelb, Melbourne. 
 [[slides]](/_pages/data/slides_2025_1_23.pdf)
-- *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @AJCAI 2024, Melbourne. 
+- *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @AJCAI, Melbourne. 
 [[slides]](/_pages/data/slides_AJCAI.pdf)
 
 # 🧑‍🏫 Teaching Assistants
