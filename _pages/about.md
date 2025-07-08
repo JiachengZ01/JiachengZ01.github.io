@@ -78,6 +78,7 @@ In *ICML 2024*.
 </div>
 
 # 🎖 Honours and Awards
+- *2025.07*, Optiver PhD Quant Lab Travel Scholarship.
 - *2025.06*, ICML 2025 Travel Award.
 - *2025.05*, ICML 2025 Top Reviewer (**Top 2%**).
 - *2025.03*, Google Student Research Travel Scholarship.
@@ -85,7 +86,7 @@ In *ICML 2024*.
 - *2023.07*, Amazon Best UG Senior Project Award.
 - *2023.07*, University Medal of USYD (**Top 1** in Major, Highest Honour for Undergraduates).
 - *2023.06*, Melbourne Research Scholarship of Unimelb.
-- *2021.02*, Vacation Research Scholarship of Unimelb.
+- *2021.02*, Mathematics and Statistics Vacation Research Scholarship of Unimelb.
 
 # 💻 Internships
 - *2025.06 - present*, research intern @Sea AI Lab-[Trustworthy AI](https://sail.sea.com/research/3), mentored by [Dr. Tianyu Pang](https://p2333.github.io/).
