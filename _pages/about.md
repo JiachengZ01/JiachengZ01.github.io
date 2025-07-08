@@ -47,6 +47,7 @@ One Stone, Two Birds: Enhancing Adversarial Defense Through the Lens of Distribu
 In *ICML 2025*.
 [[paper]](https://arxiv.org/pdf/2503.02169)
 [[code]](https://github.com/tmlr-group/DAD)
+[[poster]](/_pages/data/poster_DAD.pdf)
 </div>
 </div>
 
@@ -60,6 +61,7 @@ Yuhao Sun\*, **Jiacheng Zhang\***, Zesheng Ye\*, Chaowei Xiao, Feng Liu✉️.<b
 In *ICML 2025*.
 [[paper]](https://arxiv.org/pdf/2506.06027)
 [[code]](https://github.com/tmlr-group/SSNI)
+[[poster]](/_pages/data/poster_SSNI.pdf)
 </div>
 </div>
 
@@ -105,5 +107,5 @@ In *ICML 2024*.
 [[slides]](/_pages/data/slides_AJCAI.pdf)
 
 # 🧑‍🏫 Teaching Assistants
-- Teaching Assistant for SWEN20003: Object Oriented Software Development (2024 S2 / 2025 S1).
-- Teaching Assistant for COMP20008: Elements of Data Processing (2024 S1 / 2024 S2 / 2025 S1).
+- Teaching Assistant for SWEN20003: Object Oriented Software Development (2024 S2 / 2025 S1 / 2025 S2).
+- Teaching Assistant for COMP20008: Elements of Data Processing (2024 S1 / 2024 S2 / 2025 S1 / 2025 S2).
