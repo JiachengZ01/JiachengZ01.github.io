@@ -98,6 +98,8 @@ In *ICML 2024*.
 - Journal Reviewer for NEUNET, IEEE TIFS, TMLR, Machine Learning, etc.
 
 # 💬 Invited Talks
+- *2025.08*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @AI TIME, Online. 
+[[slides]](/_pages/data/slides_AI_TIME_ICML2025_2.pdf)
 - *2025.06*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @AI TIME, Online. 
 [[slides]](/_pages/data/slides_AI_TIME_ICML2025.pdf)
 [[video]](https://www.bilibili.com/video/BV1i4KozXETv/?spm_id_from=333.337.search-card.all.click)
