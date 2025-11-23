@@ -98,14 +98,16 @@ In *ICML 2024*.
 - Journal Reviewer for NEUNET, IEEE TIFS, TMLR, Machine Learning, etc.
 
 # 💬 Invited Talks
-- *2025.08*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @AI TIME, Online. 
+- *2025.11*, Invited Talk on *"How to Improve Model Robustness? A Distributional-Discrepancy Perspective"* @[TMLR Seminar](https://trustworthy-ml.wixsite.com/seminar25nov), Melbourne. 
+[[slides]](/_pages/data/slides_2025_11_21.pdf)
+- *2025.08*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @[AI TIME](https://www.aitime.cn/), Online. 
 [[slides]](/_pages/data/slides_AI_TIME_ICML2025_2.pdf)
-- *2025.06*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @AI TIME, Online. 
+- *2025.06*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @[AI TIME](https://www.aitime.cn/), Online. 
 [[slides]](/_pages/data/slides_AI_TIME_ICML2025.pdf)
 [[video]](https://www.bilibili.com/video/BV1i4KozXETv/?spm_id_from=333.337.search-card.all.click)
 - *2025.01*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @Unimelb, Melbourne. 
 [[slides]](/_pages/data/slides_2025_1_23.pdf)
-- *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @AJCAI, Melbourne. 
+- *2024.11*, Invited Talk on *"Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training"* @[AJCAI 2024](https://ajcai2024.org/index.html), Melbourne. 
 [[slides]](/_pages/data/slides_AJCAI.pdf)
 
 # 🧑‍🏫 Teaching Assistants
