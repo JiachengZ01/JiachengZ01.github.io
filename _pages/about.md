@@ -98,6 +98,8 @@ In *ICML 2024*.
 - Journal Reviewer for NEUNET, IEEE TIFS, TMLR, Machine Learning, etc.
 
 # 💬 Invited Talks
+- *2025.12*, Invited Talk on *"How to Improve Model Robustness? A Distributional-Discrepancy Perspective"* @[Unimelb NLP Group Seminar](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing#news-and-events), Melbourne. 
+[[slides]](/_pages/data/slides_2025_12_2.pdf)
 - *2025.11*, Invited Talk on *"How to Improve Model Robustness? A Distributional-Discrepancy Perspective"* @[TMLR Seminar](https://trustworthy-ml.wixsite.com/seminar25nov), Melbourne. 
 [[slides]](/_pages/data/slides_2025_11_21.pdf)
 - *2025.08*, Invited Talk on *"Leveraging Distributional Discrepancies for Accuracy-robustness Trade-off"* @[AI TIME](https://www.aitime.cn/), Online. 
