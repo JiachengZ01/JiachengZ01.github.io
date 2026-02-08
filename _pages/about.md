@@ -59,7 +59,7 @@ In *ICML 2025*.
 Sample-specific Noise Injection for Diffusion-based Adversarial Purification<br>
 Yuhao Sun\*, **Jiacheng Zhang\***, Zesheng Ye\*, Chaowei Xiao, Feng Liu✉️.<br>
 In *ICML 2025*.
-[[paper]](https://arxiv.org/pdf/2506.06027)
+[[paper]](https://openreview.net/pdf?id=6nbcwJVZNy)
 [[code]](https://github.com/tmlr-group/SSNI)
 [[poster]](/_pages/data/poster_SSNI.pdf)
 </div>
