@@ -95,7 +95,7 @@ In *ICML 2024*.
 - *2025.07 - 2026.01*, research intern @[Sea AI Lab - Trustworthy AI](https://sail.sea.com/research/3), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/).
 
 # ✍️ Academic Services
-- Conference Reviewer for ICML, NeurIPS, ICLR, CVPR, AISTATS, etc.
+- Conference Reviewer for ICLR 2024/2025/2026, ICML 2024/2025/2026, NeurIPS 2024/2025, CVPR 2026, etc.
 - Journal Reviewer for IEEE TPAMI, IEEE TIFS, TMLR, Machine Learning, NEUNET, etc.
 
 # 💬 Invited Talks
