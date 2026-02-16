@@ -85,7 +85,7 @@ In *International Conference on Machine Learning* (**ICML 2025**).
 <div class='paper-box-text' markdown="1">
 Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training<br>
 **Jiacheng Zhang**, Feng Liu✉️, Dawei Zhou, Jingfeng Zhang, Tongliang Liu✉️.<br>
-In *International Conference on Machine Learning* (**ICML 2025**).
+In *International Conference on Machine Learning* (**ICML 2024**).
 [[paper]](https://arxiv.org/pdf/2406.00685)
 [[code]](https://github.com/tmlr-group/PART/)
 [[poster]](/_pages/data/poster_PART.pdf)
