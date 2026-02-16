@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Jiacheng (James) Zhang. I am a research intern in the [TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) Data Trust & Safety team, mentored by [Dr Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au), and a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). Previously, I was an associate member of [Sea AI Lab (SAIL)](https://sail.sea.com/), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/). I received my Honours degree with a University Medal (**Top 1** in my major) from the University of Sydney, where I was fortunate to learn from [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/). Prior to that, I earned my Bachelor's degree from the University of Melbourne.
+Hi there, I am Jiacheng (James) Zhang. I am a research intern in the [TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) Trust & Safety (TnS) Search Team, mentored by [Dr. Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au) and [Dr. Sen Zhang](https://www.linkedin.com/in/sen-zhang-b46945151/), and a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). Previously, I was an associate member of [Sea AI Lab (SAIL)](https://sail.sea.com/), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/). I received my Honours degree with a University Medal (**Top 1** in my major) from the University of Sydney, where I was fortunate to learn from [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/). Prior to that, I earned my Bachelor's degree from the University of Melbourne.
 
 I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests lie in improving the **robustness** and **safety** of AI systems at multiple levels, including but not limited to: (1) safety alignment for multimodal AI agents; (2) safety alignment for large vision-language models; (3) adversarial robustness for vision models.
 
@@ -36,6 +36,19 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 
 # 📝 Selected Publications 
 \* Co-first author, ✉️ Corresponding author.
+
+<!-- SAFT -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">TMLR 2026</div>
+<img src='/_pages/figures/saft.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Semantic-aware Adversarial Fine-tuning for CLIP<br>
+**Jiacheng Zhang**, Jinhao Li, Hanxun Huang, Sarah M. Erfani, Benjamin I.P. Rubinstein, Feng Liu✉️.<br>
+In *Transactions on Machine Learning Research*.
+[[paper]](https://arxiv.org/pdf/2602.12461)
+[[code]](https://github.com/tmlr-group/SAFT)
+</div>
+</div>
 
 <!-- DAD -->
 <div class='paper-box'><div class='paper-box-image'><div>
@@ -91,7 +104,7 @@ In *ICML 2024*.
 - *2021.02*, Mathematics and Statistics Vacation Research Scholarship of Unimelb.
 
 # 💻 Internships
-- *2026.02 - Now*, research intern @[TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) - Data Trust & Safety, mentored by [Dr. Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au).
+- *2026.02 - Now*, research intern @[TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) - Trust & Safety (TnS) Search Team, mentored by [Dr. Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au) and [Dr. Sen Zhang](https://www.linkedin.com/in/sen-zhang-b46945151/).
 - *2025.07 - 2026.01*, research intern @[Sea AI Lab - Trustworthy AI](https://sail.sea.com/research/3), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/).
 
 # ✍️ Academic Services
