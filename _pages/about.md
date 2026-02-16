@@ -44,7 +44,7 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 <div class='paper-box-text' markdown="1">
 Semantic-aware Adversarial Fine-tuning for CLIP<br>
 **Jiacheng Zhang**, Jinhao Li, Hanxun Huang, Sarah M. Erfani, Benjamin I.P. Rubinstein, Feng Liu✉️.<br>
-In *Transactions on Machine Learning Research*.
+In *Transactions on Machine Learning Research* (**TMLR 2026**).
 [[paper]](https://arxiv.org/pdf/2602.12461)
 [[code]](https://github.com/tmlr-group/SAFT)
 </div>
@@ -57,7 +57,7 @@ In *Transactions on Machine Learning Research*.
 <div class='paper-box-text' markdown="1">
 One Stone, Two Birds: Enhancing Adversarial Defense Through the Lens of Distributional Discrepancy<br>
 **Jiacheng Zhang**, Benjamin I.P. Rubinstein, Jingfeng Zhang, Feng Liu✉️.<br>
-In *ICML 2025*.
+In *International Conference on Machine Learning* (**ICML 2025**).
 [[paper]](https://arxiv.org/pdf/2503.02169)
 [[code]](https://github.com/tmlr-group/DAD)
 [[poster]](/_pages/data/poster_DAD.pdf)
@@ -71,7 +71,7 @@ In *ICML 2025*.
 <div class='paper-box-text' markdown="1">
 Sample-specific Noise Injection for Diffusion-based Adversarial Purification<br>
 Yuhao Sun\*, **Jiacheng Zhang\***, Zesheng Ye\*, Chaowei Xiao, Feng Liu✉️.<br>
-In *ICML 2025*.
+In *International Conference on Machine Learning* (**ICML 2025**).
 [[paper]](https://openreview.net/pdf?id=6nbcwJVZNy)
 [[code]](https://github.com/tmlr-group/SSNI)
 [[poster]](/_pages/data/poster_SSNI.pdf)
@@ -85,7 +85,7 @@ In *ICML 2025*.
 <div class='paper-box-text' markdown="1">
 Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training<br>
 **Jiacheng Zhang**, Feng Liu✉️, Dawei Zhou, Jingfeng Zhang, Tongliang Liu✉️.<br>
-In *ICML 2024*.
+In *International Conference on Machine Learning* (**ICML 2025**).
 [[paper]](https://arxiv.org/pdf/2406.00685)
 [[code]](https://github.com/tmlr-group/PART/)
 [[poster]](/_pages/data/poster_PART.pdf)
