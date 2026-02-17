@@ -34,6 +34,22 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 - *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 - *2019.03 - 2022.03*, the University of Melbourne (Unimelb), B.Sc. in Data Science.
 
+# 📝 Selected Preprints 
+\* Co-first author, ✉️ Corresponding author.
+
+<!-- AdaVBoost -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">Preprint</div>
+<img src='/_pages/figures/adavboost.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+AdaVBoost: Mitigating Hallucinations in LVLMs via Token-Level Adaptive Visual Attention Boosting<br>
+**Jiacheng Zhang**, Feng Liu, Chao Du, Tianyu Pang✉️.<br>
+In *ArXiv*, 2026.
+[[paper]](https://arxiv.org/abs/2602.13600)
+[[code]](https://github.com/JiachengZ01/AdaVBoost)
+</div>
+</div>
+
 # 📝 Selected Publications 
 \* Co-first author, ✉️ Corresponding author.
 
