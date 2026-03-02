@@ -45,7 +45,7 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 AdaVBoost: Mitigating Hallucinations in LVLMs via Token-Level Adaptive Visual Attention Boosting<br>
 **Jiacheng Zhang**, Feng Liu, Chao Du, Tianyu Pang✉️.<br>
 In *ArXiv*, 2026.
-[[paper]](https://arxiv.org/abs/2602.13600)
+[[paper]](https://arxiv.org/pdf/2602.13600)
 [[code]](https://github.com/JiachengZ01/AdaVBoost)
 </div>
 </div>
@@ -88,7 +88,7 @@ In *International Conference on Machine Learning* (**ICML 2025**).
 Sample-specific Noise Injection for Diffusion-based Adversarial Purification<br>
 Yuhao Sun\*, **Jiacheng Zhang\***, Zesheng Ye\*, Chaowei Xiao, Feng Liu✉️.<br>
 In *International Conference on Machine Learning* (**ICML 2025**).
-[[paper]](https://openreview.net/pdf?id=6nbcwJVZNy)
+[[paper]](https://arxiv.org/pdf/2506.06027)
 [[code]](https://github.com/tmlr-group/SSNI)
 [[poster]](/_pages/data/poster_SSNI.pdf)
 </div>
