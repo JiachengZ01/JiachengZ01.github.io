@@ -40,7 +40,7 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 <!-- SAVAA -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='/_pages/figures/savaa.png' alt="sym" width="100%"></div></div>
+<img src='/_pages/figures/savaa.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 SAVAA: Mitigating Hallucinations in LVLMs via Step-wise Adaptive Visual Attention Amplification<br>
 **Jiacheng Zhang**, Feng Liu, Chao Du, Tianyu Pang✉️.<br>
