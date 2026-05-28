@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there, I am Jiacheng (James) Zhang. I am a research intern in the [TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) Trust & Safety (TnS) Search Team, mentored by [Dr. Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au) and [Dr. Sen Zhang](https://www.linkedin.com/in/sen-zhang-b46945151/), and a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). Previously, I was an associate member of [Sea AI Lab (SAIL)](https://sail.sea.com/), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/). I received my Honours degree with a University Medal (**Top 1** in my major) from the University of Sydney, where I was fortunate to learn from [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/). Prior to that, I earned my Bachelor's degree from the University of Melbourne.
 
-I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests lie in improving the **robustness** and **safety** of AI systems at multiple levels, including but not limited to: (1) safety alignment for multimodal AI agents; (2) safety alignment for large vision-language models; (3) adversarial robustness for vision models.
+I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests lie in improving the **robustness** and **safety** of AI systems at multiple levels, including but not limited to: (1) benchmarking/learning in-context policy for guardrails; (2) mitigating hallucination for large vision-language models; (3) Improving adversarial robustness for vision models.
 
 In an era where AI systems are increasingly embedded in high-stakes, real-world decision-making domains, I firmly believe that their foundations must be trustworthy and safe: not as an afterthought, but as a prerequisite for responsible and sustainable societal integration.
 
@@ -37,16 +37,16 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 # 📝 Selected Preprints 
 \* Co-first author, ✉️ Corresponding author.
 
-<!-- AdaVBoost -->
+<!-- SAVAA -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='/_pages/figures/adavboost.png' alt="sym" width="100%"></div></div>
+<img src='/_pages/figures/savaa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-AdaVBoost: Mitigating Hallucinations in LVLMs via Token-Level Adaptive Visual Attention Boosting<br>
+SAVAA: Mitigating Hallucinations in LVLMs via Step-wise Adaptive Visual Attention Amplification<br>
 **Jiacheng Zhang**, Feng Liu, Chao Du, Tianyu Pang✉️.<br>
 In *ArXiv*, 2026.
 [[paper]](https://arxiv.org/pdf/2602.13600)
-[[code]](https://github.com/JiachengZ01/AdaVBoost)
+[[code]](https://github.com/JiachengZ01/SAVVA)
 </div>
 </div>
 
@@ -109,6 +109,7 @@ In *International Conference on Machine Learning* (**ICML 2024**).
 </div>
 
 # 🎖 Honours and Awards
+- *2026.03*, Kingston AI Symposium Travel Scholarship.
 - *2025.07*, Optiver PhD Quant Lab Travel Scholarship.
 - *2025.06*, ICML 2025 Travel Award.
 - *2025.05*, ICML 2025 Top Reviewer (**Top 2%**).
@@ -124,7 +125,7 @@ In *International Conference on Machine Learning* (**ICML 2024**).
 - *2025.07 - 2026.01*, research intern @[Sea AI Lab - Trustworthy AI](https://sail.sea.com/research/3), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/).
 
 # ✍️ Academic Services
-- Conference Reviewer for ICLR 2024/2025/2026, ICML 2024/2025/2026, NeurIPS 2024/2025, CVPR 2026, etc.
+- Conference Reviewer for ICLR 2024/2025/2026, ICML 2024/2025/2026, NeurIPS 2024/2025/2026, CVPR 2026, etc.
 - Journal Reviewer for IEEE TPAMI, IEEE TIFS, TMLR, Machine Learning, NEUNET, etc.
 
 # 💬 Invited Talks
