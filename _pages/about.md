@@ -34,7 +34,7 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 - *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 - *2019.03 - 2022.03*, the University of Melbourne (Unimelb), B.Sc. in Data Science.
 
-# 📝 Selected Preprints 
+# 📝 Selected Working Papers
 \* Co-first author, ✉️ Corresponding author.
 
 <!-- SafePyramid -->
@@ -46,9 +46,22 @@ SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing<br>
 **Jiacheng Zhang**, Haoyu He✉️, Sen Zhang✉️, Shen Wang, Xiaolei Xu, Yuhao Sun, Meng Shen, Feng Liu.<br>
 In *ArXiv*, 2026.
 [[website]](https://bytedance.github.io/safepyramid/)
-[[paper]](https://arxiv.org/abs/2606.29887)
+[[paper]](https://arxiv.org/pdf/2606.29887)
 [[huggingface]](https://huggingface.co/datasets/ByteDance/SafePyramid)
 [[code]](https://github.com/bytedance/safepyramid)
+</div>
+</div>
+
+<!-- USAD -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">ICML 2026 Workshop</div>
+<img src='/_pages/figures/usad.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+USAD: Uncertainty-aware Statistical Adversarial Detection<br>
+Zhijian Zhou\*, Xunye Tian\*, **Jiacheng Zhang\***, Zesheng Ye✉️, Yiyi Guo, Donghao Zhang, Liuhua Peng, Feng Liu✉️.<br>
+In *ICML 2026 Workshop on Hypothesis Testing*, 2026.
+[[paper]](https://arxiv.org/pdf/2606.27832)
+[[code]](https://github.com/tmlr-group/USAD)
 </div>
 </div>
 
