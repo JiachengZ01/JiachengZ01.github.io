@@ -37,6 +37,21 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 # 📝 Selected Preprints 
 \* Co-first author, ✉️ Corresponding author.
 
+<!-- SafePyramid -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">Preprint</div>
+<img src='/_pages/figures/safepyramid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing<br>
+**Jiacheng Zhang**, Haoyu He✉️, Sen Zhang✉️, Shen Wang, Xiaolei Xu, Yuhao Sun, Meng Shen, Feng Liu.<br>
+In *ArXiv*, 2026.
+[[website]](https://bytedance.github.io/safepyramid/)
+[[paper]](https://arxiv.org/abs/2606.29887)
+[[huggingface]](https://huggingface.co/datasets/ByteDance/SafePyramid)
+[[code]](https://github.com/bytedance/safepyramid)
+</div>
+</div>
+
 <!-- SAVAA -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
