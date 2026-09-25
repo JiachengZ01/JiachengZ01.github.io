@@ -52,19 +52,6 @@ In *ArXiv*, 2026.
 </div>
 </div>
 
-<!-- USAD -->
-<div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">ICML 2026 Workshop</div>
-<img src='/_pages/figures/usad.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-USAD: Uncertainty-aware Statistical Adversarial Detection<br>
-Zhijian Zhou\*, Xunye Tian\*, **Jiacheng Zhang\***, Zesheng Ye✉️, Yiyi Guo, Donghao Zhang, Liuhua Peng, Feng Liu✉️.<br>
-In *ICML 2026 Workshop on Hypothesis Testing*, 2026.
-[[paper]](https://arxiv.org/pdf/2606.27832)
-[[code]](https://github.com/tmlr-group/USAD)
-</div>
-</div>
-
 <!-- SAVAA -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
@@ -80,6 +67,19 @@ In *ArXiv*, 2026.
 
 # 📝 Selected Publications 
 \* Co-first author, ✉️ Corresponding author.
+
+<!-- USAD -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">NeurIPS 2026</div>
+<img src='/_pages/figures/usad.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+USAD: Uncertainty-aware Statistical Adversarial Detection<br>
+Zhijian Zhou\*, Xunye Tian\*, **Jiacheng Zhang\***, Zesheng Ye✉️, Yiyi Guo, Donghao Zhang, Liuhua Peng, Feng Liu✉️.<br>
+In *Conference on Neural Information Processing Systems* (**NeurIPS 2026**).
+[[paper]](https://arxiv.org/pdf/2606.27832)
+[[code]](https://github.com/tmlr-group/USAD)
+</div>
+</div>
 
 <!-- SAFT -->
 <div class='paper-box'><div class='paper-box-image'><div>
