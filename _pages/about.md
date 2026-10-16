@@ -19,7 +19,8 @@ redirect_from:
 
 Hi there, I am Jiacheng (James) Zhang. I am currently a visiting student at the [Tsinghua Safe and Trustworthy AI Research (T-STAR)](https://collegeai.tsinghua.edu.cn/en/Research/Research_Groups/T_STAR_Lab.htm) Lab at Tsinghua University, hosted by [Dr. Yinpeng Dong](https://dongyp13.github.io/), and a Ph.D. candidate at [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/). I was a research intern in the [TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) Trust & Safety (TnS) Search Team, mentored by [Dr. Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au) and [Dr. Sen Zhang](https://www.linkedin.com/in/sen-zhang-b46945151/), and  Previously, I was an associate member of [Sea AI Lab (SAIL)](https://sail.sea.com/), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/). I received my Honours degree with a University Medal (**Top 1** in my major) from the University of Sydney, where I was fortunate to learn from [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/). Prior to that, I earned my Bachelor's degree from the University of Melbourne.
 
-I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests lie in improving the **robustness** and **safety** of AI systems at multiple levels, including but not limited to: (1) benchmarking/learning in-context policy for guardrails; (2) mitigating hallucination for large vision-language models; (3) Improving adversarial robustness for vision models.
+I am passionate about advancing the field of **trustworthy machine learning**, with a long-term vision of enabling **safe, reliable, and ethically aligned AI systems** that can be responsibly deployed in real-world environments. My current research interests span three complementary directions, including but not limited to: 
+(1) **AI Safety Evaluation**: Developing rigorous benchmarks, red-teaming methods, and statistically reliable evaluation frameworks to assess the safety of language models and AI agents; (2) **AI Reliability**: Improving factual consistency, multimodal grounding, and dependable behavior of AI systems under uncertainty; (3)**Adversarial Robustness**: Advancing robust learning and inference to defend AI systems against adversarial attacks and distribution shifts.
 
 In an era where AI systems are increasingly embedded in high-stakes, real-world decision-making domains, I firmly believe that their foundations must be trustworthy and safe: not as an afterthought, but as a prerequisite for responsible and sustainable societal integration.
 
@@ -33,6 +34,11 @@ In an era where AI systems are increasingly embedded in high-stakes, real-world 
 - *2023.08 - present*, the Unversity of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Ben Rubinstein](https://www.bipr.net/).
 - *2022.07 - 2023.07*, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by [A/Prof. Tongliang Liu](https://tongliang-liu.github.io/).
 - *2019.03 - 2022.03*, the University of Melbourne (Unimelb), B.Sc. in Data Science.
+
+# 💻 Research Experience
+- *2026.10 – Present*, visiting student @[T-STAR Lab](https://collegeai.tsinghua.edu.cn/en/Research/Research_Groups/T_STAR_Lab.htm), Tsinghua University, hosted by [Dr. Yinpeng Dong](https://dongyp13.github.io/).
+- *2026.02 - 2026.08*, research intern @[TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) - Trust & Safety (TnS) Search Team, mentored by [Dr. Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au) and [Dr. Sen Zhang](https://www.linkedin.com/in/sen-zhang-b46945151/).
+- *2025.07 - 2026.01*, research intern @[Sea AI Lab - Trustworthy AI](https://sail.sea.com/research/3), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/).
 
 # 📝 Selected Working Papers
 \* Co-first author, ✉️ Corresponding author.
@@ -135,11 +141,6 @@ In *International Conference on Machine Learning* (**ICML 2024**).
 [[poster]](/_pages/data/poster_PART.pdf)
 </div>
 </div>
-
-# 💻 Research Experience
-- *2026.10 – Present*, visiting student @[T-STAR Lab](https://collegeai.tsinghua.edu.cn/en/Research/Research_Groups/T_STAR_Lab.htm), Tsinghua University, hosted by [Dr. Yinpeng Dong](https://dongyp13.github.io/).
-- *2026.02 - 2026.08*, research intern @[TikTok](https://www.linkedin.com/company/tiktok/posts/?feedView=all) - Trust & Safety (TnS) Search Team, mentored by [Dr. Haoyu He](https://www.linkedin.com/in/haoyu-he-527526161/?originalSubdomain=au) and [Dr. Sen Zhang](https://www.linkedin.com/in/sen-zhang-b46945151/).
-- *2025.07 - 2026.01*, research intern @[Sea AI Lab - Trustworthy AI](https://sail.sea.com/research/3), mentored by [Dr. Tianyu Pang](https://p2333.github.io/) and [Dr. Chao Du](https://duchao0726.github.io/).
 
 # 🎖 Honours and Awards
 - *2026.03*, Kingston AI Symposium Travel Scholarship.

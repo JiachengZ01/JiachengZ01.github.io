@@ -9,11 +9,11 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-selected-publications"
-
   - title: "Research Experience"
     url: "/#-research-experience"
+
+  - title: "Publications"
+    url: "/#-selected-publications"
 
   - title: "Honours and Awards"
     url: "/#-honours-and-awards"
