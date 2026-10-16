@@ -12,11 +12,11 @@ main:
   - title: "Publications"
     url: "/#-selected-publications"
 
+  - title: "Research Experience"
+    url: "/#-internships"
+
   - title: "Honours and Awards"
     url: "/#-honours-and-awards"
-
-  - title: "Internships"
-    url: "/#-internships"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
